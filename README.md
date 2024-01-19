@@ -35,7 +35,7 @@ To run the game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://mayankpal99.github.io/tic-tac-toe/
+https://mayankpal99.github.io/tic-tac-toe/
    ```
 
 2. Navigate to the project directory:
